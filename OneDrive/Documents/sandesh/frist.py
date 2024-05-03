@@ -1,0 +1,7 @@
+print("addition=",6+9)
+print("My name sandesh")
+print(10 * "sandesh \n")
+print("addition=",45650/1089)
+print(10 * "myname is patil see here \n")
+print("multiplication=",10*2)
+print("Hello Python!!")
